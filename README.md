@@ -10,6 +10,7 @@ In this repository, you will find hands-on assignments covering various machine 
 
 - Assignment 1: Exploring AirBnB in Athens
 - Assignment 2: Why civil resistance works
+- Assignment 3: Roget's Thesaurus Classification
 
 Feel free to explore each assignment directory for detailed instructions and resources.
 
